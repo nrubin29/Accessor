@@ -1,4 +1,4 @@
 Accessor
 ========
 
-Access methods in classes or class instances without specifying them more than once.
+Access methods in classes or class instances without specifying parameters more than once.
